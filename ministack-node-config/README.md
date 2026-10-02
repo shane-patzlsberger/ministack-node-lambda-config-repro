@@ -6,7 +6,6 @@ use another registry. The runner uses a random local port and removes only its
 own container when finished.
 
 ```sh
-cd repros/ministack-node-config
 npm install
 npm run repro
 ```
